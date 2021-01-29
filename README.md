@@ -4,7 +4,7 @@
 
 ## I'm a 12 year old web developer!!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything 😅
 - 👯 I’m looking to collaborate with other developers and build some fun websites and apps
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and football
