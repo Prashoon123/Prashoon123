@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashoon 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PrashoonB?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Prashoon123&screen_name=PrashoonB)
+[![Twitter Follow](https://img.shields.io/twitter/follow/PrashoonB?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter-clone-abc.web.app%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=PrashoonB&tw_p=followbutton)
 
 ## I'm a 12 year old web developer!!
 
