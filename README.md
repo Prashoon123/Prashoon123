@@ -11,11 +11,21 @@
 
 ### Connect with me:
 
-[<img align="left" alt="prashoon-portfolio.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio-website]
-[<img align="left" alt="Prashoon123 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Prashoon123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Prashoon123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Prashoon123 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://prashoonb.tech/" target="_blank">
+ <img alt="Prashoon123 | Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+</a>
+<a href="https://www.linkedin.com/in/prashoon-bhattacharjee/" target="_blank">
+ <img alt="Prashoon123 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/prashoonb" target="_blank">
+ <img alt="Prashoon123 | Twitter" src="https://img.shields.io/badge/PrashoonB-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+<a href="https://instagram.com/prashoonb" target="_blank">
+ <img alt="Prashoon123 | Instagram" src="https://img.shields.io/badge/PrashoonB-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/channel/UCGDU1RRHHM0wF-Q8c3Oj2ag" target="_blank">
+ <img alt="Prashoon123 | YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+</a>
 
 <br />
 
@@ -57,9 +67,10 @@
 
 ---
 
-<img align="left" alt="Prashoon123's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Prashoon123&show_icons=true&hide_border=true" />
+<img align="left" alt="Prashoon123's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Prashoon123&show_icons=true&hide_border=true" />
+<img align="left" alt="Prashoon123's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashoon123" />
 
-[portfolio-website]: https://prashoon-portfolio.netlify.app/
+[portfolio-website]: https://prashoonb.tech/
 [twitter]: https://twitter.com/PrashoonB
 [youtube]: https://www.youtube.com/channel/UCGDU1RRHHM0wF-Q8c3Oj2ag
 [instagram]: https://www.instagram.com/PrashoonB/
