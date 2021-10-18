@@ -68,8 +68,4 @@
 <img align="left" alt="Prashoon123's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Prashoon123&show_icons=true&hide_border=true" />
 <img align="left" alt="Prashoon123's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashoon123" />
 
-[portfolio-website]: https://prashoonb.tech/
-[twitter]: https://twitter.com/PrashoonB
-[youtube]: https://www.youtube.com/channel/UCGDU1RRHHM0wF-Q8c3Oj2ag
-[instagram]: https://www.instagram.com/PrashoonB/
-[linkedin]: https://www.linkedin.com/in/prashoon-bhattacharjee/
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Prashoon123'></p>
